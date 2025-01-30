@@ -1,0 +1,3 @@
+git init = for intializing
+
+git status = listing all untracked files
