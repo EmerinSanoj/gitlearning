@@ -5,3 +5,7 @@ git status = listing all untracked files
 git add -A = adding all untracked files to staging area
 
 git commit -m "commit message" = sa= localrepository
+
+git config --global user.name "username"
+
+git config --global user.email "email"
